@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Sensitive files (Private proxies / API keys)
+proxy.txt
+.env
+
+# OS generated
+.DS_Store
+Thumbs.db
